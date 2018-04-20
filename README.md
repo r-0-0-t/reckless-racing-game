@@ -18,4 +18,7 @@ Process terminated with status 0 (0 minute(s), 1 second(s))
 0 error(s), 0 warning(s) (0 minute(s), 1 second(s))
  
 # Screenshots 
-![alt text](https://raw.githubusercontent.com/signpen6p/reckless-racing-game/master/screenshots/Scn-1.png)
+![Screenshot 1](https://raw.githubusercontent.com/signpen6p/reckless-racing-game/master/screenshots/Scn-1.png)
+![Screenshot 2](https://raw.githubusercontent.com/signpen6p/reckless-racing-game/master/screenshots/Scn-2.png)
+![Screenshot 3](https://raw.githubusercontent.com/signpen6p/reckless-racing-game/master/screenshots/Scn-3.png)
+![Screenshot 4](https://raw.githubusercontent.com/signpen6p/reckless-racing-game/master/screenshots/Scn-4.png)
